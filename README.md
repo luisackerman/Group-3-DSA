@@ -72,3 +72,12 @@ For questions, suggestions, or feedback, please visit the "Contacts" section to 
 
 
 We hope this manual enhances your experience with LNP. Explore the various sections to deepen your understanding of structures and algorithms.
+
+Group 3 Member:
+Ronald G. De Villa Jr.
+Bonifacio, Andrew Dominic
+Arbis, Jefferson
+Villanueva, Jericho
+Jalotjot, Arjun
+Velasco, John Michael Luis
+Esguerra, Yasser Trevor
